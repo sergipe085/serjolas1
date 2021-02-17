@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord: Serjolas1#9581
 - ⚡ Fun fact: I make robots for Robocup Rescue Line 🤖
 
-<brk/>
-<brk/>
+<br/>
+<br/>
 
 <img align="left" alt="Serjolas1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=serjolas1&show_icons=true&hide_border=true"/>
