@@ -10,7 +10,5 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <img align="left" alt="Serjolas1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=serjolas1&show_icons=true&hide_border=true"/>
