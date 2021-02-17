@@ -1,7 +1,5 @@
 ### Hi there 👋 i am Serjolas1!
 
-<br/>
-<br/>
 
 - 🌱 I’m currently learning nodejs, typescript and
 - 💬 Ask me about Ask me about anything. If I don't know the answer, I'll try my best to learn it
