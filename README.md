@@ -1,12 +1,15 @@
 ### Hi there 👋 i am Serjolas1!
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
 - 🌱 I’m currently learning nodejs, typescript and
 - 💬 Ask me about Ask me about anything. If I don't know the answer, I'll try my best to learn it
 - 📫 How to reach me: Discord: Serjolas1#9581
 - ⚡ Fun fact: I make robots for Robocup Rescue Line 🤖
 
+<br/>
+<br/>
 <br/>
 <br/>
 
