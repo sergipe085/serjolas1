@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Serjolas1!
 
 
-- 🌱 I’m currently learning nodejs, typescript and
+- 🌱 I’m currently learning nodejs, typescript, elixit and Computer Science on Harvard's cs50 course
 - 💬 Ask me about anything. If I don't know the answer, I'll try my best to learn it
 - 📫 How to reach me: Discord: Serjolas1#9581
 - ⚡ Fun fact: I make robots for Robocup Rescue Line 🤖
