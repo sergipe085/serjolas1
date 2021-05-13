@@ -5,8 +5,9 @@
 - 💬 Ask me about anything. If I don't know the answer, I'll try my best to learn it
 - 📫 How to reach me: Discord: Serjolas1#9581
 - ⚡ Fun fact: I make robots for Robocup Rescue Line 🤖
-- [Linkedin](https://www.linkedin.com/in/s%C3%A9rgio-f-812874206/)
 - [Portfolio](https://www.behance.net/gallery/118918141/Portfolio-Games)
+- [Linkedin](https://www.linkedin.com/in/s%C3%A9rgio-f-812874206/)
+- [Twitter](https://twitter.com/serjolas16)
 
 <br/>
 <br/>
